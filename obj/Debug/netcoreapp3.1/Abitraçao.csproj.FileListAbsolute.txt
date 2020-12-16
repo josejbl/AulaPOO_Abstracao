@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\Abitraçao\obj\Debug\netcoreapp3.1\Abitraçao.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Abitraçao\obj\Debug\netcoreapp3.1\Abitraçao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Abitraçao\obj\Debug\netcoreapp3.1\Abitraçao.AssemblyInfo.cs
+C:\Users\fic\Desktop\Abitraçao\obj\Debug\netcoreapp3.1\Abitraçao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Abitraçao\bin\Debug\netcoreapp3.1\Abitraçao.exe
+C:\Users\fic\Desktop\Abitraçao\bin\Debug\netcoreapp3.1\Abitraçao.deps.json
+C:\Users\fic\Desktop\Abitraçao\bin\Debug\netcoreapp3.1\Abitraçao.runtimeconfig.json
+C:\Users\fic\Desktop\Abitraçao\bin\Debug\netcoreapp3.1\Abitraçao.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Abitraçao\bin\Debug\netcoreapp3.1\Abitraçao.dll
+C:\Users\fic\Desktop\Abitraçao\bin\Debug\netcoreapp3.1\Abitraçao.pdb
+C:\Users\fic\Desktop\Abitraçao\obj\Debug\netcoreapp3.1\Abitraçao.dll
+C:\Users\fic\Desktop\Abitraçao\obj\Debug\netcoreapp3.1\Abitraçao.pdb
+C:\Users\fic\Desktop\Abitraçao\obj\Debug\netcoreapp3.1\Abitraçao.genruntimeconfig.cache
